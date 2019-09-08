@@ -1,0 +1,312 @@
+/*--All Margin Padding 0 px--*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/*--Header Part Logo Start--*/
+
+body {
+    font-family: 'Lato', sans-serif; 
+}
+.container {
+    width: 1140px;
+    margin: 0% auto;
+}
+.logo {
+    width: 100%;
+    background-color: #f6f9f9;
+}
+.logo img {
+    margin: 27px auto 27px 250px;
+}
+
+/*--Header Part Logo Start--*/
+
+/*--Section 1 Banner Part Start--*/
+
+.banner {
+    width: 100%;
+    margin: 0% auto;
+    background-image: url(../img/01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+.banner-main {
+    width: 600px;
+    margin: 50px auto;
+    background-color: transparent;
+    text-align: center;
+}
+.banner-main h1 {
+    color: #fff;
+    font-size: 120px;
+    margin-bottom: 35px;
+}
+.underline {
+    width: 600px;
+    margin: 0px auto 45px;
+    border-bottom: 2px solid #15a4fa;
+    display: block;
+}
+.banner-main p {
+    color: #fff;
+    margin-bottom: 64px;
+    font-family: lato;
+}
+.btn-one {
+    border: 1px solid #15a4fa;
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    background-color: transparent;
+    padding: 13px 36px;
+    border-radius: 4%;
+    margin-bottom: 50px;
+}
+.fa.fa-chevron-down {
+    margin-top: 180px;
+}
+
+/*--Section 1 Banner Part Closed--*/
+
+/*--Section 2 Contant Part Start--*/
+
+.contant{
+    width: 100%;
+    background-color: #f6f9f9;
+    margin:0px auto;
+    float: left;
+}
+.contant-main {
+    text-align: center;
+    padding: 80px 80px 104px 80px;
+}
+.contant-main h1 {
+    padding: 13px;
+    font-size: 30px;
+    font-family: lato;
+    color: black;
+}
+.contant-main p{
+    font-size: 20px;
+    font-family: lato;
+    color: #999999;
+    padding: 13px;
+}
+/*--Section 2 Contant Part Closed--*/
+
+/*--Section 3 Icon Part Start--*/
+
+.icons {
+    width: 100%;
+    float: left;
+    margin: 80px 0px;
+}
+.icons-one {
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    margin: 0px;
+}
+.fa.fa-mobile {
+    font-size: 76px;
+    background-color: #5fc3ff;
+    color: white;
+    size: 15px;
+    border-radius: 5px;
+    padding: 30px 50px;
+}
+.icons-one h4 {
+    font-family: "Lato", Regular;
+    font-size: 22px;
+    color: #2d3950;
+    margin: 34px 0 20px;
+}
+.icons-one p{
+	font-family: "Lato", Regular;
+    font-size: 15px;
+    color: #999999;
+    margin-bottom: 80px;
+}
+.icons-two{
+   width: 33.33%;
+    float: left;
+    text-align: center;
+    margin: 0px;
+}
+.fa.fa-paper-plane {
+    font-size: 76px;
+    background-color: #5fc3ff;
+    color: white;
+    border-radius: 5px;
+    padding: 30px 50px;
+}
+.icons-two h4 {
+    font-family: "Lato", Regular;
+    font-size: 22px;
+    color: #2d3950;
+    margin: 34px 0 20px;
+}
+.icons-two p{
+	font-family: "Lato", Regular;
+    font-size: 15px;
+    color: #999999;
+    margin-bottom: 80px;	
+}
+.icons-three{
+    width: 33.33%;
+    float: left;
+    text-align: center;
+    margin: 0px;
+}
+.fa.fa-bullhorn{
+    font-size: 76px;
+    background-color: #5fc3ff;
+    color: white;
+    border-radius: 5px;
+    padding: 30px 50px;
+}
+.icons-three h4 {
+    font-family: "Lato", Regular;
+    font-size: 22px;
+    color: #2d3950;
+    margin: 34px 0 20px;
+}
+.icons-three p{
+	font-family: "Lato", Regular;
+    font-size: 15px;
+    color: #999999;	
+    margin-bottom: 80px;
+}
+
+/*--Section 3 Icon Part Closed--*/
+
+
+/*--Section 4 Photo Part--*/
+.photo {
+    width: 100%;
+    margin: 0px auto;
+    background-color:#f6f9f9; 
+    float: left;
+}
+.photo-contant {
+    width: 100%;
+    margin: 0px auto;
+    float: left;
+}
+.photo-contant h1 {
+    text-align: center;
+    padding: 10px;
+    margin-top: 35px;
+}
+.photo-contant p {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 35px;
+    color: #999999;
+}
+.photo-list {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+/*--Section 4 Photo Part Closed--*/
+
+
+/*--Section 5 Form Part Start--*/
+.form {
+    width: 100%;
+    margin: 0 px auto;
+    background-color: #3A4354;
+    float: left;
+}
+.form-contant {
+    margin-top: 45px;
+    text-align: center;
+}
+.form-contant h1 {
+    color: #fff;
+    padding: 10px;
+}
+.form-contant p {
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 35px;
+}
+.form-main {
+    width: 500px;
+    margin: 0% auto;
+}
+.frm {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3A4354;
+    margin:10px auto;
+    border-radius: 3%;
+}
+.text-msg {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 35px;
+    padding: 10px 0;
+    background-color: #3A4354;
+    margin: 10px auto;
+    border-radius: 2%;
+    border:1 px solid #fff;
+} 
+.btn {
+    border: 1px solid #15a4fa;
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    background-color: transparent;
+    padding: 13px 36px;
+    border-radius: 4%;
+    float: right;
+    margin-bottom: 50px;
+}
+
+/*--Section 5 Form Part Closed--*/
+
+/*--Footer Part start--*/
+footer {
+	width: 100%;
+	float: left;
+	background-color: #f6f9f9;
+}
+
+.copyright {
+	width: 50%;
+	float: left;
+}
+.copyright p {
+	color: #999999;
+	font-family: Lato;
+    font-size: 14px;
+    margin: 35px 0;
+    margin-left: 30px;
+}
+.social-icon {
+	width: 50%;
+	float: left;
+}
+.social-icon ul {
+	list-style: none;
+    float: right;
+    margin-right: 30px;
+}
+.social-icon ul li {
+	display: inline-block;
+	margin: 31px 0;
+}
+.social-icon ul li a {
+	text-decoration: none;
+    color: white;
+    background-color: #15a4fa;
+    padding: 10px;
+    border-radius: 2px;
+    font-size: 13px;
+}
+/*--Footer Part Closed--*/
